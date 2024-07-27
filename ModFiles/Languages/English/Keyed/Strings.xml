@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<kathanon.AdjustDisabledWork.Title>Disabled work categories</kathanon.AdjustDisabledWork.Title>
+	<kathanon.AdjustDisabledWork.Default>Default</kathanon.AdjustDisabledWork.Default>
+	<kathanon.AdjustDisabledWork.DefaultTip>Reset disabled work to vanilla settings.</kathanon.AdjustDisabledWork.DefaultTip>
+</LanguageData>

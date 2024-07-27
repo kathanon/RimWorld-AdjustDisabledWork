@@ -1,0 +1,26 @@
+<ModMetaData>
+	<name>Adjust Disabled Work</name>
+	<author>kathanon</author>
+    <packageId>kathanon.AdjustDisabledWork</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Lets you decide what work types will be disabled for each role when creating an ideoligion.
+
+Safe to add or remove at any time.
+When adding to a game in progress with a fixed ideo, you need to use dev mode to edit the roles.
+When removing from a game in progress, disabled work will revert to default.</description>
+	<url>https://github.com/kathanon/RimWorld-AdjustDisabledWork</url>
+
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId> 
+			<displayName>Harmony</displayName>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>brrainz.harmony</li>
+	</loadAfter>
+</ModMetaData>
