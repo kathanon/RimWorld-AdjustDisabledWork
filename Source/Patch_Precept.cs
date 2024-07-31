@@ -102,7 +102,7 @@ public static class Patch_Precept {
         if (precept is not Precept_Role role) return;
         var state = For(role);
         state.Reset();
-        open = state.WantsRoles;
+        open = state.WantsWorkTypes;
     }
 
 

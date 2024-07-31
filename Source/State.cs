@@ -8,7 +8,7 @@ public class State {
     public bool set;
     public PreceptDef def;
 
-    public bool WantsRoles 
+    public bool WantsWorkTypes 
         => (value | edit | def.roleDisabledWorkTags) != WorkTags.None;
 
     public State(Precept_Role role) {
